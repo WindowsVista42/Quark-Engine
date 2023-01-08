@@ -1,5 +1,5 @@
 # Quark-Engine
-**Note: This is not the main repository! Email me if you would like access.**
+**Note: This repository is only for my portfolio! Send me an email if you would like to see the main repository.**
 
 A game engine written in C-style C++.  
 I started working on this project in roughly January 2021.
