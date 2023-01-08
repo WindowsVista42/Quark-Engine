@@ -8,7 +8,7 @@ I'm still actively developing this project, and it has been a great way to learn
 
 ## Project Overview
 **Core layer:**
-- Linear algebra math library
+- GLSL-style math library
 - C++ helpers
 - Typedefs
 
