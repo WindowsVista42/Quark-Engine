@@ -1,10 +1,12 @@
 # Quark-Engine
-Game engine written in C-style C++.  
+**Note: This is not the main repository! Email me if you would like access.**
+
+A game engine written in C-style C++.  
 I started working on this project in roughly January 2021.
 
 My goal with this project has been to learn more about making game engines and create something that I enjoy using.
 The aim is to make an engine that prioritizes keeping things simple while also providing higher-level features that dont get in the way.
-I'm still actively developing this project, and it has been a great way to learn and improve my skills, but if you would like to see the main repository send me an email!
+I'm still actively developing this project, but if you would like to see the main repository send me an email so we can get in touch!
 
 ## Project Overview
 **Core layer:**
