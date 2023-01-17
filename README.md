@@ -37,6 +37,9 @@ I'm still actively developing this project, but if you would like to see the mai
 - Material and material batching system
 - UI system
 
+**Loader:**
+- Plugin loading
+
 **Tooling:**
 - GLSL shader abstraction
 - CLI tool for common tasks
