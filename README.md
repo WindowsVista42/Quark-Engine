@@ -54,3 +54,8 @@ I'm still actively developing this project, but if you would like to see the mai
 - tinyobjloader
 - ttf2mesh
 - vk-boostrap
+
+## Open Sourced Parts
+I have open sourced some parts of the engine that are relatively feature-stable and other people might find useful.
+- [WindowsVista42/ThreadPool](https://github.com/WindowsVista42/ThreadPool)  
+- [WindowsVist42/QuarkPackge](https://github.com/WindowsVista42/QuarkPackage)
