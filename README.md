@@ -37,4 +37,4 @@ More details about the demo are on the [**wiki**](https://github.com/WindowsVist
 I think game engine technology is interesting and I wanted to explore it more. I am also trying to continually improve my skills through new challenges. Making a game engine is a great way for me to do both.
 
 ## Wiki
-I go into more depth on the technical aspects on the [**wiki**](https://github.com/WindowsVista42/Quark-Engine/wiki).
+I go into more depth on the technical aspects of the engine on the [**wiki**](https://github.com/WindowsVista42/Quark-Engine/wiki).
