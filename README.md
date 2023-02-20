@@ -1,61 +1,40 @@
 # Quark-Engine
-**Note: This repository is only for my portfolio! Send me an email if you would like to see the main repository.**
+Quark is a game engine I have been developing for the past year. This repository covers what I have worked on so far.
 
-A game engine written in C-style C++.  
-I started working on this project in roughly January 2021.
+<!-- TODO: add to this a little bit, just like a tiny amount -->
 
-My goal with this project has been to learn more about making game engines and create something that I enjoy using.
-The aim is to make an engine that prioritizes keeping things simple while also providing higher-level features that dont get in the way.
-I'm still actively developing this project, but if you would like to see the main repository send me an email so we can get in touch!
+## Features
+- Written in C++
+- Custom CLI tooling in Python
+- Custom high-performance renderer using Vulkan
+- Custom material system capable of one-draw-call per material type
+- Custom bitset based entity component system
+- GLSL language extension / transpiler
+- Plugins / modding support
+- Simple "C-style" API
+- Optimized compile times
+- Arena based memory management
+- Open source thread pool implementation
+- Open source package format
+- **More details on the [wiki]()!**
 
-## Project Overview
-**Core layer:**
-- GLSL-style math library
-- C++ helpers
-- Typedefs
+## Contact
+Send me an email at seanmoulton123@gmail.com!
 
-**Platform layer:**
-- Window API
-- Input API
-- Custom threadpool
-- General OS abstractions (shared libraries, memory allocation, precise timing)
-- Arena allocator pool
+## Demo
+I have a demo for the engine in the [SpaceshipsDemo](SpaceshipsDemo/) folder. Code is in the [SpaceshipsDemo/spaceships](SpaceshipsDemo/spaceships) folder, and a build is in the [SpaceshipsDemo/build](SpaceshipsDemo/build) folder. The code requires the engine to compile, but it's still useful here for showing how the engine works for users.
 
-**Engine layer:**
-- Core component types (Transform, Model, etc...)
-- Global resource system
-- Custom bitset-based entity component system
-- Game state serialization and deserialization
-- Input agnostic actions
-- Jobs system
-- String Builder API
-- Logging API
-- Asset loader
-- Asset package format
-- General vulkan abstraction
-- Bindless gpu-driven forward renderer
-- Material and material batching system
-- UI system
+Also, here is a **quick video** showing the demo in action: <!-- TODO: --> [LINK TO SOME VIDEO]()
 
-**Loader:**
-- Plugin loading
+More details about the demo are on the [wiki]().
 
-**Tooling:**
-- GLSL shader abstraction
-- CLI tool for common tasks
+## Future Plans
+- 1.0 version in the future
+- Will open source more things as systems get developed
+- Will test the engine by making games
 
-**Libraries being used:**
-- GLFW
-- Vulkan
-- VulkanMemoryAllocator
-- lz4
-- meshoptimizer
-- stb
-- tinyobjloader
-- ttf2mesh
-- vk-boostrap
+##  Why Make a Game Engine?
+I think game engine technology is interesting and I wanted to explore it more. I am also trying to continually improve my skills through new challenges. Making a game engine is a great way for me to do both.
 
-## Open Sourced Parts
-I have open sourced some parts of the engine that are relatively feature-stable that other people might find useful.
-- [WindowsVista42/ThreadPool](https://github.com/WindowsVista42/ThreadPool)  
-- [WindowsVist42/QuarkPackge](https://github.com/WindowsVista42/QuarkPackage)
+## Wiki
+I go into more depth on the [wiki]().
