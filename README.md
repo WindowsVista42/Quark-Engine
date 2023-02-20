@@ -16,7 +16,7 @@ Quark is a game engine I have been developing for the past year. This repository
 - Arena based memory management
 - Open source thread pool implementation
 - Open source package format
-- **More details on the [wiki]()!**
+- **More details on the [wiki](https://github.com/WindowsVista42/Quark-Engine/wiki)!**
 
 ## Contact
 Send me an email at seanmoulton123@gmail.com!
@@ -26,7 +26,7 @@ I have a demo for the engine in the [SpaceshipsDemo](SpaceshipsDemo/) folder. Co
 
 Also, here is a **quick video** showing the demo in action: <!-- TODO: --> [LINK TO SOME VIDEO]()
 
-More details about the demo are on the [wiki]().
+More details about the demo are on the [**wiki**](https://github.com/WindowsVista42/Quark-Engine/wiki/Demo).
 
 ## Future Plans
 - 1.0 version in the future
@@ -37,4 +37,4 @@ More details about the demo are on the [wiki]().
 I think game engine technology is interesting and I wanted to explore it more. I am also trying to continually improve my skills through new challenges. Making a game engine is a great way for me to do both.
 
 ## Wiki
-I go into more depth on the [wiki]().
+I go into more depth on the technical aspects on the [**wiki**](https://github.com/WindowsVista42/Quark-Engine/wiki).
