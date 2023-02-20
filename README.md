@@ -1,7 +1,9 @@
 # Quark-Engine
-Quark is a game engine I have been developing for the past year. This repository covers what I have worked on so far.
+**Welcome!**
 
-<!-- TODO: add to this a little bit, just like a tiny amount -->
+Quark is a high-performance and easy-to-use game engine built in C++. I have been developing Quark for the past year and have custom-built: a renderer using Vulkan, an entity component system, modding support, a draw-call batching system, open-sourced libraries, and much more!
+
+This repository contains general information about the engine, a demo, and a wiki. The demo is a fully playable game showing what Quark can do, and the wiki covers broad, technical information. This repository acts as a way to showcase the engine while also cataloging my thoughts on the project.
 
 ## Features
 - Written in C++
@@ -19,22 +21,27 @@ Quark is a game engine I have been developing for the past year. This repository
 - **More details on the [wiki](https://github.com/WindowsVista42/Quark-Engine/wiki)!**
 
 ## Contact
-Send me an email at seanmoulton123@gmail.com!
+Send me an email at seanmoulton123@gmail.com or create an issue on this repository!
 
 ## Demo
-I have a demo for the engine in the [SpaceshipsDemo](SpaceshipsDemo/) folder. Code is in the [SpaceshipsDemo/spaceships](SpaceshipsDemo/spaceships) folder, and a build is in the [SpaceshipsDemo/build](SpaceshipsDemo/build) folder. The code requires the engine to compile, but it's still useful here for showing how the engine works for users.
+I have a demo of the engine in [SpaceshipsDemo/](SpaceshipsDemo/).  
+There is a build of the game in [SpaceshipsDemo/build/](SpaceshipsDemo/build/).  
+You can check out the code for the game in [SpaceshipsDemo/spaceships/](SpaceshipsDemo/spaceships/).  
+Here is a **quick video** showing the demo in action: <!-- TODO: --> [LINK TO SOME VIDEO]()
 
-Also, here is a **quick video** showing the demo in action: <!-- TODO: --> [LINK TO SOME VIDEO]()
-
-More details about the demo are on the [**wiki**](https://github.com/WindowsVista42/Quark-Engine/wiki/Demo).
+**Note:** The code requires the engine to compile, but I provide a short breakdown so you know what you are looking at.  
+More details and an FAQ about the demo are on the [**wiki**](https://github.com/WindowsVista42/Quark-Engine/wiki/Demo).
 
 ## Future Plans
-- 1.0 version in the future
-- Will open source more things as systems get developed
-- Will test the engine by making games
+- 1.0 version (currently 85% feature complete)
+- Open source more systems
+- Make a commercial game to test the engine
 
 ##  Why Make a Game Engine?
 I think game engine technology is interesting and I wanted to explore it more. I am also trying to continually improve my skills through new challenges. Making a game engine is a great way for me to do both.
+
+## Open Sourced Parts
+Open sourced libraries I have made for the engine can be found on the [**wiki**](https://github.com/WindowsVista42/Quark-Engine/wiki/Open-Sourced-Libraries).
 
 ## Wiki
 I go into more depth on the technical aspects of the engine on the [**wiki**](https://github.com/WindowsVista42/Quark-Engine/wiki).
