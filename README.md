@@ -33,7 +33,7 @@ You can check out the code for the game in [SpaceshipsDemo/spaceships/](Spaceshi
 More details and an FAQ about the demo are on the [**wiki**](https://github.com/WindowsVista42/Quark-Engine/wiki/Demo).
 
 ## Future Plans
-- 1.0 version (currently 85% feature complete)
+- 1.0 version (currently 70% feature complete)
 - Open source more systems
 - Make a commercial game to test the engine
 
