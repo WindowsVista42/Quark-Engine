@@ -5,6 +5,9 @@ and what it is like to program using the engine.
 
 A video can be found [here](https://www.youtube.com/watch?v=kleAUZQlFJ4).
 
+## Running the Demo
+All you should need to do is clone this repository and run `quark_loader.exe` in the build folder.
+
 ## Controls
 ```
 "move_forward"  - W
