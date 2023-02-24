@@ -30,35 +30,48 @@ Clone this repository and run `quark_loader.exe` in the build folder.
 ```
 
 ## Engine Features Shown
-- 3D Rendering  
+- **3D Rendering**  
   Look for `push_drawable_instance()` calls.
-- Materials  
+  
+- **Materials**  
   Look for `ColorMaterial` being used.
-- UI Text Rendering  
+  
+- **UI Text Rendering**  
   Look for `push_ui_text()` calls.
-- Entity Component System  
+  
+- **Entity Component System**  
   Look for `create_entity()`, `add_components()`, and `for_archetype()`.
-- Game State Snapshots  
+  
+- **Game State Snapshots**  
   Look for `load_ecs()` and `save_ecs()`. The function name will undoubtedly change in the future.
-- Audio (WIP)
+  
+- **Audio (WIP)**  
   Look for `play_sound()`. This API is WIP, so the semanics are likely to change.
-- Asset Manager
+  
+- **Asset Manager**  
   All of the assets in the `quark/` and `spaceships/` folders get loaded.
-- Job Scheduler
+  
+- **Job Scheduler**  
   Look for `create_system2()` and `add_system2()`. At the time of writing this I was testing a new API to make it simpler.
-- Math Library
+  
+- **Math Library**  
   Look for any `quat...` or `vec3...` things being used.
-- Input Actions
+  
+- **Input Actions**  
   Look for `create_action` and `bind_action()`.
-- Logging
+  
+- **Logging**  
   Look for `log_message()`.
-- Window Management
+  
+- **Window Management**  
   The game calls `set_window_should_close()` to tell the window to close.
 
 ## Demo Features
-- 3D Physics (Raycasting & Collision)
+- **3D Physics (Raycasting & Collision)**  
   Look in `physics.cpp`.
-- NPC AI
+  
+- **NPC AI**  
   I'm using the ECS for this, most of the code is in `gameplay.cpp` and uses `for_archetype()` to iterate through enemies.
-- PID Controllers
+  
+- **PID Controllers**  
   Declaration is in `spaceships.hpp` and code is in `util.cpp`.
