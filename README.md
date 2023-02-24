@@ -30,7 +30,7 @@ I have a demo of the engine in [SpaceshipsDemo/](SpaceshipsDemo/).
 There is a build of the game in [SpaceshipsDemo/build/](SpaceshipsDemo/build/).  
 You can check out the code for the game in [SpaceshipsDemo/spaceships/](SpaceshipsDemo/spaceships/).  
 
-**Note:** The code requires the engine to compile, but I provide a short breakdown so you know what you are looking at.  
+**Note:** The code requires the engine to compile, but I provide a short breakdown so you know what to look at.  
 
 ## Future Plans
 - 1.0 version (currently 70% feature complete)
