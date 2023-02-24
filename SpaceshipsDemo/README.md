@@ -5,7 +5,18 @@ and what it is like to program using the engine.
 
 A video can be found [here](https://www.youtube.com/watch?v=kleAUZQlFJ4).
 
-## Running the Demo
+## Features Shown
+- 3D Rendering
+- Materials
+- UI Text Rendering
+- Entity Component System
+- Game State Snapshots
+- Audio (WIP)
+- Asset Manager
+- Job Scheduler
+- Math Library
+
+## Running
 Clone this repository and run `quark_loader.exe` in the build folder.
 
 ## Controls
@@ -26,14 +37,3 @@ Clone this repository and run `quark_loader.exe` in the build folder.
 
 "exit"          - Escape
 ```
-
-## Features Shown
-- 3D Rendering
-- Materials
-- UI Text Rendering
-- Entity Component System
-- Game State Snapshots
-- Audio (WIP)
-- Asset Manager
-- Job Scheduler
-- Math Library
