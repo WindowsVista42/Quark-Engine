@@ -1,7 +1,7 @@
 #define SPACESHIPS_IMPLEMENTATION
 #include "spaceships.hpp"
 
-//
+
 
 namespace quark::spaceships {
   define_component(EnemyMove);
