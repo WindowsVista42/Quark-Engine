@@ -4,7 +4,11 @@ Video: https://www.youtube.com/watch?v=kleAUZQlFJ4
 This demo is primarily used to validate that things work in the engine as expected. But, it also shows off some of what the engine is capable of,
 and what it is like to program using the engine.
 
-Some of the code in this demo is a bit of a mess. I didn't intend to spend much time making it, so many things are thrown together.
+Right now the demo is very **work in progress**.  
+Features TODO:
+- An actual gameplay loop
+- Better audio
+- Nicer shaders
 
 ## Running
 Clone this repository and run `quark_loader.exe` in the build folder.
