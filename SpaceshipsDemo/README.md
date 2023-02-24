@@ -5,10 +5,7 @@ This demo is primarily used to validate that things work in the engine as expect
 and what it is like to program using the engine.
 
 Right now the demo is very **work in progress**.  
-Features TODO:
-- An actual gameplay loop
-- Better audio
-- Nicer shaders
+I plan to add: an actual gameplay loop, better audio, nicer shaders, and controller support.
 
 ## Running
 Clone this repository and run `quark_loader.exe` in the build folder.
