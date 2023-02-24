@@ -34,7 +34,7 @@ You can check out the code for the game in [SpaceshipsDemo/spaceships/](Spaceshi
 
 ## Future Plans
 - 1.0 version (currently 70% feature complete)
-- Open source more systems
+- Open source more systems as they get developed
 - Make a commercial game to test the engine
 
 ##  Why Make a Game Engine?
