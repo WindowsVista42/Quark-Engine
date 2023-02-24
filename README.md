@@ -27,7 +27,7 @@ Send me an email at seanmoulton123@gmail.com or create an issue on this reposito
 I have a demo of the engine in [SpaceshipsDemo/](SpaceshipsDemo/).  
 There is a build of the game in [SpaceshipsDemo/build/](SpaceshipsDemo/build/).  
 You can check out the code for the game in [SpaceshipsDemo/spaceships/](SpaceshipsDemo/spaceships/).  
-<!-- TODO: Here is a **quick video** showing the demo in action: [LINK TO SOME VIDEO]() -->
+There is a video showing the demo in action and briefly explaining everything [here](https://www.youtube.com/watch?v=kleAUZQlFJ4). 
 
 **Note:** The code requires the engine to compile, but I provide a short breakdown so you know what you are looking at.  
 More details and an FAQ about the demo are on the [**wiki**](https://github.com/WindowsVista42/Quark-Engine/wiki/Demo).
