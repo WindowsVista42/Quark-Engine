@@ -1,9 +1,8 @@
 # Spaceships Demo
+Video: https://www.youtube.com/watch?v=kleAUZQlFJ4
 
 This demo is primarily used to validate that things work in the engine as expected. But, it also shows off some of what the engine is capable of,
 and what it is like to program using the engine.
-
-A video can be found [here](https://www.youtube.com/watch?v=kleAUZQlFJ4).
 
 Some of the code in this demo is a bit of a mess. I didn't intend to spend much time making it, so many things are thrown together.
 
