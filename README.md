@@ -24,17 +24,17 @@ This repository contains general information about the engine, a demo, and a wik
 Send me an email at seanmoulton123@gmail.com or create an issue on this repository!
 
 ## Demo
+Video: https://www.youtube.com/watch?v=kleAUZQlFJ4
+
 I have a demo of the engine in [SpaceshipsDemo/](SpaceshipsDemo/).  
 There is a build of the game in [SpaceshipsDemo/build/](SpaceshipsDemo/build/).  
 You can check out the code for the game in [SpaceshipsDemo/spaceships/](SpaceshipsDemo/spaceships/).  
-<!-- TODO: Here is a **quick video** showing the demo in action: [LINK TO SOME VIDEO]() -->
 
-**Note:** The code requires the engine to compile, but I provide a short breakdown so you know what you are looking at.  
-More details and an FAQ about the demo are on the [**wiki**](https://github.com/WindowsVista42/Quark-Engine/wiki/Demo).
+**Note:** The code requires the engine to compile, but I provide a short breakdown so you know what to look at.  
 
 ## Future Plans
 - 1.0 version (currently 70% feature complete)
-- Open source more systems
+- Open source more systems as they get developed
 - Make a commercial game to test the engine
 
 ##  Why Make a Game Engine?
