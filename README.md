@@ -23,14 +23,13 @@ This repository contains general information about the engine, a demo, and a wik
 ## Contact
 Send me an email at seanmoulton123@gmail.com or create an issue on this repository!
 
-## Demo
-Video: https://www.youtube.com/watch?v=kleAUZQlFJ4
+## Examples
+Showcase video explaining some of the high level features: https://www.youtube.com/watch?v=kleAUZQlFJ4
 
-I have a demo of the engine in [SpaceshipsDemo/](SpaceshipsDemo/).  
-There is a build of the game in [SpaceshipsDemo/build/](SpaceshipsDemo/build/).  
-You can check out the code for the game in [SpaceshipsDemo/spaceships/](SpaceshipsDemo/spaceships/).  
+Examples can be found in [examples/](examples/).  
+Builds for the examples are in [bin/](bin/).  
 
-**Note:** The code requires the engine to compile, but I provide a short breakdown so you know what to look at.  
+**Note:** The code requires the engine to compile, but they show some of the features of the engines and what it's like to program in it.  
 
 ## Future Plans
 - 1.0 version (currently 70% feature complete)
