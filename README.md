@@ -12,9 +12,9 @@ The wiki can be found [here](https://github.com/WindowsVista42/Quark-Engine/wiki
 - GLSL language extension / transpiler
 - Plugins using shared libraries
 - GLSL-inspired math library
-- Simple "C-style" API
 - CLI tooling
 - Fast compile times
+- Simple "C-style" API
 - Arena based memory management
 - Open source thread pool implementation
 - Open source package format
