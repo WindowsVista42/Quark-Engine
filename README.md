@@ -6,15 +6,14 @@ Quark is a high-performance and easy-to-use game engine built in C++. I have bee
 This repository contains general information about the engine, a demo, and a wiki. The demo is a fully playable game showing what Quark can do, and the wiki covers broad, technical information. This repository acts as a way to showcase the engine while also cataloging my thoughts on the project.
 
 ## Features
-- Written in C++
-- Custom CLI tooling in Python
-- Custom high-performance renderer using Vulkan
-- Custom material system capable of one-draw-call per material type
-- Custom bitset based entity component system
+- High-performance renderer using Vulkan
+- Material batching system using indirect draw calls
+- Bitset based entity component system
 - GLSL language extension / transpiler
 - Plugins / modding support
 - Simple "C-style" API
-- Optimized compile times
+- Custom CLI tooling
+- Fast compile times (under 2s)
 - Arena based memory management
 - Open source thread pool implementation
 - Open source package format
