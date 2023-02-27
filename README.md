@@ -26,10 +26,8 @@ Send me an email at seanmoulton123@gmail.com or create an issue on this reposito
 ## Examples
 Showcase video explaining some of the high level features: https://www.youtube.com/watch?v=kleAUZQlFJ4
 
-Examples can be found in [examples/](examples/).  
-Builds for the examples are in [bin/](bin/).  
-
-**Note:** The code requires the engine to compile, but they show some of the features of the engines and what it's like to program in it.  
+Source code for the examples can be found in [examples/](examples/).  
+Builds for the examples can be found in [bin/](bin/).  
 
 ## Future Plans
 - 1.0 version (currently 70% feature complete)
