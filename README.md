@@ -38,7 +38,10 @@ Builds for the examples can be found in [bin/](bin/).
 I think game engine technology is interesting and I wanted to explore it more. I am also trying to continually improve my skills through new challenges. Making a game engine is a great way for me to do both.
 
 ## Open Sourced Parts
-Open sourced libraries I have made for the engine can be found on the [**wiki**](https://github.com/WindowsVista42/Quark-Engine/wiki/Open-Sourced-Libraries).
+ThreadPool: https://github.com/WindowsVista42/ThreadPool  
+QuarkPackage: https://github.com/WindowsVista42/QuarkPackage
+
+More information can be found on the [wiki](https://github.com/WindowsVista42/Quark-Engine/wiki/Resources).
 
 ## Wiki
-I go into more depth on the technical aspects of the engine on the [**wiki**](https://github.com/WindowsVista42/Quark-Engine/wiki).
+I go into more depth on the technical aspects of the engine on the [wiki](https://github.com/WindowsVista42/Quark-Engine/wiki).
