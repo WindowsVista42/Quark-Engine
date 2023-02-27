@@ -13,7 +13,7 @@ This repository contains general information about the engine, a demo, and a wik
 - Plugins / modding support
 - Simple "C-style" API
 - Custom CLI tooling
-- Fast compile times (under 2s)
+- Fast compile times
 - Arena based memory management
 - Open source thread pool implementation
 - Open source package format
