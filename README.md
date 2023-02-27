@@ -8,11 +8,12 @@ This repository contains general information about the engine, a demo, and a wik
 ## Features
 - High-performance renderer using Vulkan
 - Material batching system using indirect draw calls
-- Bitset based entity component system
+- Bitset-based entity component system
 - GLSL language extension / transpiler
-- Plugins / modding support
+- Plugins using shared libraries
+- GLSL-inspired math library
 - Simple "C-style" API
-- Custom CLI tooling
+- CLI tooling
 - Fast compile times
 - Arena based memory management
 - Open source thread pool implementation
