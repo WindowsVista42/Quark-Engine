@@ -35,7 +35,7 @@ Builds for the examples can be found in [bin/](bin/).
 - Make a commercial game to test the engine
 
 ##  Why Make a Game Engine?
-I think game engine technology is interesting and I wanted to explore it more. I am also trying to continually improve my skills through new challenges. Making a game engine is a great way for me to do both.
+I think game engine technology is interesting and I wanted to explore it more. I am also trying to continually improve my skills through new challenges. Making a game engine is a great way for me to do both!
 
 ## Open Sourced Parts
 ThreadPool: https://github.com/WindowsVista42/ThreadPool  
