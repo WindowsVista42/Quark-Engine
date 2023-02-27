@@ -6,7 +6,7 @@ Builds for the examples can be found in [bin/](bin/) and code in [examples/](exa
 The wiki can be found [here](https://github.com/WindowsVista42/Quark-Engine/wiki) and covers broad, technical information, as well as my thoughts on the project.
 
 ## Features
-- High-performance renderer using Vulkan
+- High-performance forward renderer using Vulkan
 - Material batching system using indirect draw calls
 - Bitset-based entity component system
 - GLSL language extension / transpiler
