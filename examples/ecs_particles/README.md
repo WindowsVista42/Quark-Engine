@@ -15,4 +15,5 @@ A build is available in [bin/ecs_particles/](../../bin/ecs_particles/).
 
 ## Output
 You can configure the parameters of the particle emitter, by default it looks like this:
+
 ![Ecs Particles](../../images/ecs_particles.png)
