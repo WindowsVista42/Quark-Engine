@@ -14,7 +14,7 @@ Each example includes its own README file with instructions on how to run and in
 A build of each example is available in its respective subdirectory in the [bin/](../bin/) folder.  
 If you have access to the Quark engine code, you can modify and build each example to experiment with different scenarios and test the engine's capabilities.
 
-## In the Works
+## Examples in the Works
 - Materials
 - Input/Actions
 - Jobs
