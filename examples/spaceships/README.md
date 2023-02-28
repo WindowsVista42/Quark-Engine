@@ -1,11 +1,9 @@
 # Spaceships Demo
-Video: https://www.youtube.com/watch?v=kleAUZQlFJ4
+Video explanation: https://www.youtube.com/watch?v=kleAUZQlFJ4
 
-This demo is primarily used to validate that things work in the engine as expected. But, it also shows off some of what the engine is capable of,
-and what it is like to program using the engine.
+This demo is a simple game made in the engine. It's very **work in progress** right now and primarily needs: an actual gameplay loop, better audio, nicer shaders, and controller support.
 
-Right now the demo is very **work in progress**.  
-I plan to add: an actual gameplay loop, better audio, nicer shaders, and controller support.
+The code for this demo isn't documented very well, but if you feel like looking through, go for it!
 
 ## Running
 Clone this repository and run `quark_loader.exe` in the build folder.

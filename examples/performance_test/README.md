@@ -8,7 +8,7 @@ For more details about what makes the renderer fast, check out the page on the w
 The code is heavily commented to explain what everything does.
 
 ## Controls
-No controls.
+- **ESCAPE** - close the program
 
 ## Build
 A build is available in [bin/performance_test/](../../bin/performance_test/).

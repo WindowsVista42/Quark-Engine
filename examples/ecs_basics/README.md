@@ -7,7 +7,7 @@ The example showcases how to create, read, update, and delete a component called
 The code is heavily commented to explain what everything does.
 
 ## Controls
-No controls.
+- **ESCAPE** - close the program
 
 ## Build
 A build is available in [bin/ecs_basics/](../../bin/ecs_basics/).
