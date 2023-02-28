@@ -4,11 +4,13 @@ This is a simple example that demonstrates the basics of the ECS (Entity Compone
 
 The example showcases how to create, read, update, and delete a component called **CustomTimer** from entities using the functions provided in the engine.
 
+The code is heavily commented to explain what everything does.
+
 ## Controls
 No controls.
 
 ## Build
-A build is available in [bin/ecs_basics/](bin/ecs_basics/).
+A build is available in [bin/ecs_basics/](../../bin/ecs_basics/).
 
 ## Output
 After a couple of seconds the output should look something like this:
@@ -28,5 +30,3 @@ CustomTimer finished! (Entity ID: 2)
 ```
 
 The program prints out when the "CustomTimer"'s finish, then once all timers have finished it creates 10 more.
-
-
