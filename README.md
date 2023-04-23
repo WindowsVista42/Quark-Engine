@@ -24,7 +24,6 @@ The wiki can be found [here](https://github.com/WindowsVista42/Quark-Engine/wiki
 Send me an email at seanmoulton123@gmail.com or create an issue on this repository!
 
 ## Examples
-Showcase video explaining some of the high level features: https://www.youtube.com/watch?v=kleAUZQlFJ4
 
 Source code for the examples can be found in [examples/](examples/).  
 Builds for the examples can be found in [bin/](bin/).  
