@@ -20,9 +20,6 @@ The wiki can be found [here](https://github.com/WindowsVista42/Quark-Engine/wiki
 - Open source package format
 - More details on the [wiki](https://github.com/WindowsVista42/Quark-Engine/wiki)!
 
-## Contact
-Send me an email at seanmoulton123@gmail.com or create an issue on this repository!
-
 ## Examples
 
 Source code for the examples can be found in [examples/](examples/).  
