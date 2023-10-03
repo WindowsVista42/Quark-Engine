@@ -25,14 +25,6 @@ The wiki can be found [here](https://github.com/WindowsVista42/Quark-Engine/wiki
 Source code for the examples can be found in [examples/](examples/).  
 Builds for the examples can be found in [bin/](bin/).  
 
-## Future Plans
-- 1.0 version (currently 70% feature complete)
-- Open source more systems as they get developed
-- Make a commercial game to test the engine
-
-##  Why Make a Game Engine?
-I think game engine technology is interesting and I wanted to explore it more. I am also trying to continually improve my skills through new challenges. Making a game engine is a great way for me to do both!
-
 ## Open Sourced Parts
 ThreadPool: https://github.com/WindowsVista42/ThreadPool  
 QuarkPackage: https://github.com/WindowsVista42/QuarkPackage
