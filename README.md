@@ -26,6 +26,8 @@ Source code for the examples can be found in [examples/](examples/).
 Builds for the examples can be found in [bin/](bin/).  
 
 ## Open Sourced Parts
+Core Engine: https://github.com/WindowsVista42/Quark
+
 ThreadPool: https://github.com/WindowsVista42/ThreadPool  
 QuarkPackage: https://github.com/WindowsVista42/QuarkPackage
 
